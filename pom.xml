@@ -9,6 +9,9 @@
     <version>1.0</version>
     <modules>
         <module>sorting</module>
+        <module>divide-and-conquer</module>
+        <module>dynamic-programming</module>
+        <module>searching</module>
     </modules>
 
     <name>algorithms</name>
