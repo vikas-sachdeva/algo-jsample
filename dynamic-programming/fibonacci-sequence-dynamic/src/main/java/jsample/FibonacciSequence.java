@@ -14,6 +14,7 @@ public class FibonacciSequence {
 
     private long generate(int n, long[] temp) {
         if (temp[n] == 0) {
+            System.out.println("hello n " + n);
             temp[n] = generate(n - 1, temp) + generate(n - 2, temp);
         }
         return temp[n];

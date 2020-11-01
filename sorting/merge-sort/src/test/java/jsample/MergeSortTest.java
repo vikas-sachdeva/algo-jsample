@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 
 public class MergeSortTest {
 
-    MergeSort<Integer> solution = new MergeSort<>();
+    private MergeSort<Integer> solution = new MergeSort<>();
 
     @Test
     public void sortTest1() {

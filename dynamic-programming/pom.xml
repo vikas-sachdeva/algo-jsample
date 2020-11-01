@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>fibonacci-sequence-dynamic</module>
+        <module>0-1-knapsack-problem</module>
     </modules>
 
 </project>

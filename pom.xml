@@ -12,6 +12,11 @@
         <module>divide-and-conquer</module>
         <module>dynamic-programming</module>
         <module>searching</module>
+        <module>sieve-of-eratosthenes</module>
+        <module>euclidean</module>
+        <module>greedy-algo</module>
+        <module>tortoise-hare-floyd</module>
+        <module>binary-exponentiation</module>
     </modules>
 
     <name>algorithms</name>
